@@ -1,0 +1,18 @@
+C:\Users\Konchita\AppData\Local\Temporary Projects\Finals\bin\Debug\Finals.exe
+C:\Users\Konchita\AppData\Local\Temporary Projects\Finals\bin\Debug\Finals.pdb
+C:\Users\Konchita\AppData\Local\Temporary Projects\Finals\bin\Debug\Finals.xml
+C:\Users\Konchita\AppData\Local\Temporary Projects\Finals\obj\x86\Debug\Finals.frmCalculate.resources
+C:\Users\Konchita\AppData\Local\Temporary Projects\Finals\obj\x86\Debug\Finals.Resources.resources
+C:\Users\Konchita\AppData\Local\Temporary Projects\Finals\obj\x86\Debug\Finals.vbproj.GenerateResource.Cache
+C:\Users\Konchita\AppData\Local\Temporary Projects\Finals\obj\x86\Debug\Finals.exe
+C:\Users\Konchita\AppData\Local\Temporary Projects\Finals\obj\x86\Debug\Finals.xml
+C:\Users\Konchita\AppData\Local\Temporary Projects\Finals\obj\x86\Debug\Finals.pdb
+C:\Users\Konchita\documents\visual studio 2010\Projects\Finals\Finals\obj\x86\Debug\Finals.exe
+C:\Users\Konchita\documents\visual studio 2010\Projects\Finals\Finals\obj\x86\Debug\Finals.xml
+C:\Users\Konchita\documents\visual studio 2010\Projects\Finals\Finals\obj\x86\Debug\Finals.pdb
+C:\Users\Konchita\Documents\Visual Studio 2010\Projects\Finals\Finals\bin\Debug\Finals.exe
+C:\Users\Konchita\Documents\Visual Studio 2010\Projects\Finals\Finals\bin\Debug\Finals.pdb
+C:\Users\Konchita\Documents\Visual Studio 2010\Projects\Finals\Finals\bin\Debug\Finals.xml
+C:\Users\Konchita\Documents\Visual Studio 2010\Projects\Finals\Finals\obj\x86\Debug\Finals.frmCalculate.resources
+C:\Users\Konchita\Documents\Visual Studio 2010\Projects\Finals\Finals\obj\x86\Debug\Finals.Resources.resources
+C:\Users\Konchita\Documents\Visual Studio 2010\Projects\Finals\Finals\obj\x86\Debug\Finals.vbproj.GenerateResource.Cache
